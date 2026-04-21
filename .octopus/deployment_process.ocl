@@ -1,5 +1,5 @@
 step "run-script" {
-    name = "Run Script"
+    name = "Run:Script"
 
     action {
         action_type = "Octopus.Script"
